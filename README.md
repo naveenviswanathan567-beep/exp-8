@@ -95,7 +95,8 @@ plt.show()
 
 ### Output
 
-![alt text](image.png)
+<img width="736" height="414" alt="123" src="https://github.com/user-attachments/assets/a0f9a87d-a62b-499e-ace9-50ef88c2dd04" />
+
 
 #### Original Grayscale Image
 -The grayscale version of the input image is displayed.
