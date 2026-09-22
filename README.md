@@ -42,8 +42,8 @@ Compare the results obtained from Global, Adaptive, and Otsu's thresholding meth
 
 ### Program
 #### Developed By:
-#### Name: KALPESH C
-#### Register No: 212225230121
+#### Name: NAVEEN V
+#### Register No: 212225240098
 ```
 import cv2
 import numpy as np
